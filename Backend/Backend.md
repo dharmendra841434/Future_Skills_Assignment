@@ -13,7 +13,7 @@ A brief description of what this project does and who it's for.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/iAmritMalviya/fullstack-assignment.git
+   git clone https://github.com/dharmendra841434/Future_Skills_Assignment.git
    ```
 
 2. **Navigate to project directory:**
