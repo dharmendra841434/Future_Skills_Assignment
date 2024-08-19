@@ -1,0 +1,31 @@
+# Nextjs Frontend
+
+A brief description of what this project does and who it's for.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Running the Project](#running-the-project)
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/iAmritMalviya/fullstack-assignment.git
+   ```
+
+2. **Navigate to project directory:**
+
+   ```bash
+   cd Frontend
+   ```
+
+3. **Install dependencies:**
+
+## Run project locally
+
+1. **Run project :**
+   ```bash
+   npm run dev
+   ```
